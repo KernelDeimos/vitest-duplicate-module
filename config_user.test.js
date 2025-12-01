@@ -1,5 +1,5 @@
 import { describe, expect, it } from "vitest";
-import config from "./config";
+import config from "./config_importer";
 import config_user from "./config_user";
 
 describe('config_user', () => {
